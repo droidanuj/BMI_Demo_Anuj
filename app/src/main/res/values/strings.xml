@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Anuj</string>
+
+    //Strings used for fragments for navigation
+    <string name="first_fragment_label">Add BMI</string>
+    <string name="second_fragment_label">BMI Details</string>
+
+    // add id
+    <string name="interstitial_ad_unit_id">ca-app-pub-3578057406923784/7159152130</string>
+
+    // add fragment
+    <string name="enter_personal_detail">Enter Personal Detail</string>
+    <string name="hint_name">Name</string>
+    <string name="calculate_your_body_mass_index">Calculate Your Body Mass Index</string>
+    <string name="calculate">Calculate</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="gender">Gender</string>
+    <string name="bmi_details">BMI Details</string>
+    <string name="msg_pls_enter_name">Please enter name!</string>
+
+    // details fragment
+    <string name="add_bmi_details">Add BMI Details</string>
+    <string name="body_mass_index">BODY MASS INDEX</string>
+    <string name="normal_bmi_range_18_5kg_m2_25kg_m2">Normal BMI range: 18.5kg/m2 – 25kg/m2</string>
+    <string name="ponderal_index_10_64kg_m3">Ponderal Index: 10.64kg/m3</string>
+    <string name="msg_rating_submitted">Rating submitted.</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+
+    // dialog
+    <string name="rate_us">RATE US</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+
+</resources>
